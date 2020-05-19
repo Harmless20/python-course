@@ -1,0 +1,75 @@
+LEARN python3 THE HARD WAY EXERCISE 22. "WHAT DO YOU KNOW"
+
+Exercise 1:
+print:- Displays text to screen.
+
+Exercise 3:
+ + plus used to add numbers
+ - subtraction used to subtract numbers.
+ / division used to divide numbers.
+  * multiplication used to multiply numbers.
+  % percent (but used as modulo / modulus in python3)
+  < less-than used to compare values.
+  > greater-than
+  <= less-than or equal-to
+  >= greater-than or equal-to
+
+Exercise 4:
+ = equal-to used to assign variables to numbers or strings.
+
+Exercise 5:
+ # hash used write comments.
+ f-string used to format variables.
+ {} curly bracket.
+
+Exercise 6:
+ False used to set a variable to false.
+ .format() another f-string.
+
+Exercise 7:
+
+ Exercise 8:
+  True used set a variable to true.
+
+Exercise 9:
+ \n newline used to tell python to move to next line.
+ """ used to write multiple lines of strings.
+
+Exercise 10:
+ \t tab used to tell python to bring tab.
+ \\ backslash.
+
+Exercise 11:
+ end=' ' used to tell python not to terminate the current line but move to the next line for user input.
+
+Exercise 12:
+ input() used to take information from a user.
+
+Exercise 13:
+ from sys import argv . argv is a module in the system libraries.
+
+Exercise 14:
+
+Exercise 15:
+open() used to ope file.
+.read() used read file.
+
+Exercise 16:
+ .truncate() used to delete content of a file.
+  .write() used new lines of contents to a file.
+  .close() used to tell python to close a file when running.
+
+Exercise 17:
+  os.path tells python the directory of a file.
+  len() used to calculate the length of a file.
+  exist used to confirm the existence of a file before copying.
+
+Exercise 18:
+ def used to create a function.
+
+Exercise 19:
+
+Exercise 20:
+  rewind()     used to rewind a file. (A function we created)
+  seek(0) use to tell python to take the file to the beginning (to the files 0 bytes)
+  readline() used read file line by line.
